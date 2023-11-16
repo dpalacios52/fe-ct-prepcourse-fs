@@ -86,6 +86,7 @@ function esVocal(letra) {
       return "Dato incorrecto"
    }  
    } 
+   //termine con exito y lo pude subir al git
    
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
